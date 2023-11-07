@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.467 s <<< FAILURE! - in com.runner.TestRunner
+Login.Verify user can login to app  Time elapsed: 3.134 s  <<< ERROR!
+java.lang.NullPointerException: null value in entry: url=null
+
